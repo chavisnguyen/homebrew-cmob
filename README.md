@@ -1,6 +1,6 @@
 # homebrew-cmob
 
-Homebrew tap for [cmob - Cmux Mobile](https://github.com/chavisnguyen/cmux-mobile): watch and control your cmux terminals and coding agents from your phone.
+Homebrew tap for [cmob - Cmux Mobile](https://github.com/chavisnguyen/cmob): watch and control your cmux terminals and coding agents from your phone.
 
 ```bash
 brew tap chavisnguyen/cmob
