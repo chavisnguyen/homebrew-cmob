@@ -1,7 +1,7 @@
 class Cmob < Formula
   desc "Watch and control your cmux terminals and coding agents from a phone"
   homepage "https://github.com/chavisnguyen/cmob"
-  version "0.1.8"
+  version "0.1.9"
   license "MIT"
 
   # This file is generated from packaging/homebrew/cmob.rb.template by the
@@ -14,12 +14,12 @@ class Cmob < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/chavisnguyen/cmob/releases/download/v0.1.8/cmob-macos-arm64"
-      sha256 "b7fae7f3ab8e110f150bd1e997ab118dea9f27c5fe8049c55d83ab0a4df92221"
+      url "https://github.com/chavisnguyen/cmob/releases/download/v0.1.9/cmob-macos-arm64"
+      sha256 "6980fed46bdd7cb3549622b820d0a63968c7f04efd499871a5b511041a6c44b5"
     end
     on_intel do
-      url "https://github.com/chavisnguyen/cmob/releases/download/v0.1.8/cmob-macos-x64"
-      sha256 "85ca403d5d222bc08dea1a3033dc6a2315ef423c8d42e8e9df106c0580f206cb"
+      url "https://github.com/chavisnguyen/cmob/releases/download/v0.1.9/cmob-macos-x64"
+      sha256 "924d011651bd5c7ad90f44e28baec1bf4d140cafbe49d47f98d6c9bf4e317f89"
     end
   end
 
